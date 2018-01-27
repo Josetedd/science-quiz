@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Science quiz</string>
+    <string name="homebutton">Start Quiz >></string>
+    <string name="quiz_1">1. What does a light-year measure?</string>
+    <string name="choice1_A">Speed</string>
+    <string name="choice1_B">light</string>
+    <string name="choice1_C">Distance</string>
+    <string name="choice1_D">Frequency</string>
+    <string name="quiz_2">2. This picture shows three layers of the Earth. Which layer is the hottest?</string>
+    <string name="choice2_A">Earths Crust</string>
+    <string name="choice2_B">Earths Mantle</string>
+    <string name="choice2_C">Earths Core</string>
+    <string name="quiz_3">3. Which  element is needed to make nuclear energy and nuclear weapons?</string>
+    <string name="quiz_4">4. Which of the following are mammals</string>
+    <string name="choice4_A">marsupials</string>
+    <string name="choice4_B">Squamata</string>
+    <string name="choice4_C">Monotremes</string>
+    <string name="choice4_D">placental</string>
+    <string name="quiz_5">5. Number of milk teeth in  a child?</string>
+
+</resources>
